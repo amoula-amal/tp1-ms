@@ -1,0 +1,8 @@
+presentation\PresentationAvecAnnotation.class
+presentation\PresentationDynamique.class
+metier\MetierIMP.class
+presentation\PresentationAvecSpring.class
+dao\IDao.class
+metier\IMetier.class
+presentation\PresentationStatique.class
+dao\DaoIMP.class
