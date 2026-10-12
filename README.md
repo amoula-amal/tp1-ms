@@ -180,14 +180,4 @@ Avantages par rapport au XML & Portée IoC (Q6) :
 | **1-4 Spring Annotations** | Conteneur Spring | Annotations (`@Autowired`) | Faible |  Total & Moderne |
 ---
  Instructions pour Cloner et Exécuter
- 4. Conclusion
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/VOTRE_USERNAME/NOM_DU_REPO.git
-   ```
-2. Ouvrir le projet :
-   - Ouvrir IntelliJ IDEA ➜ File ➜ Open ➜ Choisir le dossier du projet.
-   - Attendre la synchronisation Maven.
-3. Exécuter :
-   - Lancer l'une des classes `main` dans `src/main/java/presentation/`.
-À travers ce TP, nous avons pu constater l'intérêt concret de l'**Inversion de Contrôle** dans une architecture logicielle. Partant d'un code fortement couplé et peu modulable, l'introduction des interfaces a permis d'isoler les responsabilités. L'utilisation finale de **Spring avec annotations** offre la solution la plus élégante : un code concis, facilement testable, et totalement ouvert aux évolutions futures sans modifier l'existant.
+ 
